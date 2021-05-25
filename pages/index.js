@@ -14,6 +14,7 @@ export default function Home({ session, posts }) {
       <Head>
     <meta httpEquiv="etag" content="2efdc27c8967f14e2c829e601f7a1228" />
         <meta property="og:title" content="South Jersey Aerial Photograpahy" />
+    <meta property="fb:app_id" content="1015003798605559" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="http://www.sjap.online/" />
         <meta
