@@ -8,7 +8,7 @@ import Wiggets from "../components/Wiggets";
 import { db } from "../firebase";
 
 export default function Home({ session, posts }) {
-//   if (!session) return <Login />;
+  if (!session) return <Login />;
   return (
     <div className="h-screen bg-gray-100 overflow-hidden">
       <Head>
