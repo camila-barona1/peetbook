@@ -11,7 +11,7 @@ function Login() {
     <meta property="fb:app_id" content="1015003798605559" />
         <meta property="og:title" content="South Jersey Aerial Photograpahy" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://www.sjap.online/" />
+        <meta property="og:url" content="https://peetbook.vercel.app/" />
         <meta
           property="og:image"
           content="https://static.wixstatic.com/media/56a444_9273e80a60684dc8b38e56025059f356%7Emv2_d_3200_1800_s_2.png"
